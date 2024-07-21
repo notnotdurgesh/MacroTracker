@@ -1,0 +1,9 @@
+/* index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom styles */
+body {
+  transition: background-color 0.5s, color 0.5s;
+}
